@@ -1,6 +1,5 @@
-import React from 'react'
 import { Link } from 'react-router-dom'
-import { BookOpen, Users, Video, FileText, ArrowRight, Star, CheckCircle } from 'lucide-react'
+import { BookOpen, Users, Video, FileText, CheckCircle } from 'lucide-react'
 
 export default function LandingPage() {
   return (
@@ -39,7 +38,6 @@ export default function LandingPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link to="/register" className="btn-primary text-lg px-8 py-3">
                 Start Learning Today
-                <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
               <Link to="/register" className="btn-secondary text-lg px-8 py-3">
                 Become an Instructor
@@ -102,15 +100,15 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold text-primary-600 mb-2">1000+</div>
+              <div className="text-4xl font-bold text-primary-600 mb-2">100+</div>
               <div className="text-lg text-gray-600">Active Students</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-secondary-600 mb-2">200+</div>
+              <div className="text-4xl font-bold text-secondary-600 mb-2">20+</div>
               <div className="text-lg text-gray-600">Expert Instructors</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-primary-600 mb-2">5000+</div>
+              <div className="text-4xl font-bold text-primary-600 mb-2">500+</div>
               <div className="text-lg text-gray-600">Learning Resources</div>
             </div>
           </div>

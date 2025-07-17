@@ -1,9 +1,6 @@
 # 📚 Jifunze Learning Platform
 
 > **Jifunze** (Swahili for "Learn") - A comprehensive role-based learning platform that connects passionate instructors with eager students through seamless content sharing and interactive learning experiences.
-
-![Jifunze Platform](https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
-
 ## 🌟 Features
 
 ### 👨‍🎓 For Students
@@ -35,7 +32,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jifunze-learning-platform.git
+   git clone https://github.com/Chaser-254/jifunze-learning-platform.git
    cd jifunze-learning-platform
    ```
 
@@ -264,12 +261,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with setup, please:
 
-1. Check the [Issues](https://github.com/yourusername/jifunze-learning-platform/issues) page
+1. Check the [Issues](https://github.com/Chaser-254/jifunze-learning-platform/issues) page
 2. Create a new issue with detailed information
 3. Join our community discussions
 
 ---
 
-**Built with ❤️ for the learning community**
+**Built with love for the learning community**
 
 *Jifunze - Empowering education through technology*
