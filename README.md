@@ -1,27 +1,27 @@
-# 📚 Jifunze Learning Platform
+# Jifunze Learning Platform
 
 > **Jifunze** (Swahili for "Learn") - A comprehensive role-based learning platform that connects passionate instructors with eager students through seamless content sharing and interactive learning experiences.
-## 🌟 Features
+## Features
 
-### 👨‍🎓 For Students
+### For Students
 - **Browse Learning Content** - Access videos and documents from instructors
 - **Interactive Content Viewer** - Built-in video player and document viewer
 - **Progress Tracking** - Monitor your learning journey
 - **Responsive Design** - Learn on any device, anywhere
 
-### 👨‍🏫 For Instructors
+### For Instructors
 - **Content Management** - Upload and organize videos and documents
 - **File Upload System** - Support for multiple file formats (MP4, PDF, DOC, etc.)
 - **Analytics Dashboard** - Track content performance and student engagement
 - **Content Organization** - Categorize and manage learning materials
 
-### 🔐 Security & Authentication
+### Security & Authentication
 - **Role-Based Access Control** - Separate experiences for students and instructors
 - **JWT Authentication** - Secure token-based authentication
 - **Protected Routes** - Ensure users only access authorized content
 - **Password Encryption** - Secure password storage with bcrypt
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -78,7 +78,7 @@
    - Frontend: http://localhost:3000
    - Backend API: http://localhost:5000
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 jifunze-learning-platform/
@@ -121,7 +121,7 @@ jifunze-learning-platform/
 └── README.md
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks and functional components
@@ -142,7 +142,7 @@ jifunze-learning-platform/
 - **bcryptjs** - Password hashing library
 - **CORS** - Cross-Origin Resource Sharing middleware
 
-## 📋 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -163,7 +163,7 @@ jifunze-learning-platform/
 - `GET /api/users/role/instructors` - Get all instructors
 - `GET /api/users/role/students` - Get all students
 
-## 🎨 UI Components
+## UI Components
 
 The project uses **shadcn/ui** components for a consistent, accessible design system:
 
@@ -175,7 +175,7 @@ The project uses **shadcn/ui** components for a consistent, accessible design sy
 - **Badge** - Status indicators and labels
 - **Separator** - Visual dividers for content sections
 
-## 🔧 Development
+## Development
 
 ### Available Scripts
 
@@ -197,7 +197,7 @@ npm run dev         # Start development server with nodemon
 - **TypeScript** - Type checking and IntelliSense
 - **Prettier** - Code formatting (recommended)
 
-## 🚀 Deployment
+## Deployment
 
 ### Frontend Deployment
 1. Build the application:
@@ -219,7 +219,7 @@ JWT_SECRET=your_production_jwt_secret
 NODE_ENV=production
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to Jifunze! Please follow these steps:
 
@@ -245,11 +245,11 @@ We welcome contributions to Jifunze! Please follow these steps:
 - Update documentation as needed
 - Ensure responsive design compatibility
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **shadcn/ui** - For the beautiful component library
 - **Tailwind CSS** - For the utility-first CSS framework
@@ -257,7 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MongoDB** - For the flexible database solution
 - **Vercel** - For inspiration on modern web development practices
 
-## 📞 Support
+## Support
 
 If you have any questions or need help with setup, please:
 
